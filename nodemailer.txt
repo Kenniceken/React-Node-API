@@ -1,0 +1,14 @@
+
+
+app nodemailer 
+laraveldevapps@gmail.com
+qzxzjgtzfcnehhyt
+
+MONGO_URI = mongodb://127.0.0.1:27017/nodeapi
+PORT = 8080
+JWT_SECRET = MJATYROLGTSQ014785164923MBARQZIFTYU
+CLIENT_URL = http://localhost:3000
+
+
+https://github.com/kaloraat/nodeapi/
+https://github.com/kaloraat/react-front
